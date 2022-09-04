@@ -28,7 +28,7 @@ All the required assets for this project are in the `/assets` folder. The assets
 
 The design system in the design file will give you more information about the various colors, fonts, and styles used in this project.
 
-## Building your project
+## Building this project
 
 Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
@@ -38,3 +38,19 @@ Feel free to use any workflow that you feel comfortable with. Below is a suggest
 4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
 5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
 6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+
+## Contributing guide:
+
+- Fork this project
+- Create a branch with your name
+- Clone your project locally
+- Install dependencies
+  ```bash
+  npm install
+  ```
+- run dev server
+  ```bash
+  npm run dev
+  ```
+- work locally
+- send pull request to merge
