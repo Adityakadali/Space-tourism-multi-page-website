@@ -8,6 +8,10 @@ module.exports = {
         secondary: "#D0D6F9",
       },
     },
+    fontFamily: {
+      barlow: ['"Barlow Condensed"', "sans-serif"],
+      bellefair: ["Bellefair", "serif"],
+    },
   },
   plugins: [],
 };
